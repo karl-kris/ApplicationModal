@@ -20,7 +20,7 @@ import javafx.scene.paint.Color;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 
-public class ApplicationModal extends Application {
+public class ApplicationModality extends Application {
     public static void main(String[] args) {
         Application.launch(args);
     }
